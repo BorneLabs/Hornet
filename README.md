@@ -1,1 +1,1 @@
-Hornet a sophisticated Recommendation App by Borne
+sophisticated Recommendation App by BorneLabs
